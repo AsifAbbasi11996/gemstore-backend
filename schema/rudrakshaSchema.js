@@ -1,4 +1,3 @@
-// const { types } = require("mime-types");
 const mongoose = require("mongoose");
 
 const rudrakshaSchema = new mongoose.Schema({
@@ -11,18 +10,6 @@ const rudrakshaSchema = new mongoose.Schema({
     required: true,
   },
   Category: {
-    type: String,
-    required: true,
-  },
-  Purpose: {
-    type: String,
-    required: true,
-  },
-  Guarantee: {
-    type: String,
-    required: true,
-  },
-  DivineCollection: {
     type: String,
     required: true,
   },

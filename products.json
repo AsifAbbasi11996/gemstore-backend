@@ -2,24 +2,10 @@
   // Gemstone
   {
     "ProductID": "1",
-    "Name": "Blue Sapphire (3.82 ratti, 4.202 carat)",
-    "Category": "gemstone",
-    "Mrp": "11000",
-    "SP": "8404",
-    "Color": "Blue",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/1_6c8bb9fe-23f4-4048-9245-c3da1cef5014.jpg?v=1722335792&width=800",
-      "https://gemsmantra.com/cdn/shop/files/2_30f5c901-5c37-400f-99c9-cf3eecd0e4db.jpg?v=1722335793&width=800",
-      "https://gemsmantra.com/cdn/shop/files/3_a8d4b511-1562-481c-955d-8b9e071719e5.jpg?v=1722335793&width=800"
-    ],
-    "Type": "Opal"
-  },
-  {
-    "ProductID": "2",
     "Name": "Opal Premium (8 Ratti)",
     "Category": "gemstone",
-    "Mrp": 43500,
-    "SP": 40000,
+    "Mrp": "43500",
+    "SP": "40000",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/Gemsbracelet_e3d1f561-882e-444d-a0ea-c8fb9f3cf28b.png?v=1686745214&width=800"
     ],
@@ -38,107 +24,215 @@
       "Better ability to control anger.",
       "Highly beneficial for health matters.",
       "Ability to predict accident or illness."
-    ],
-    "_id": "66b07ea3f3eff198bdb0eafe",
-    "__v": 0
+    ]
   },
   {
-    "ProductID": "9",
+    "ProductID": "2",
+    "Name": "Blue Sapphire Premium ( 9 Ratti )",
+    "Category": "gemstone",
+    "Mrp": "52000",
+    "SP": "45069",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/Gemsbracelet_bfb9b1bd-26dd-4df6-a5fa-69b7bf70bbbf.png?v=1686921668&width=800",
+      "https://gemsmantra.com/cdn/shop/products/5_2_f0186271-9d97-4214-8efb-6c7a78a01408.png?v=1686921668&width=800"
+    ],
+    "Color": "Blue",
+    "Type": "Neelam",
+    "About": "This blue sapphire, more popularly known as Neelam Ratnam is one of the most powerful stones in the astrological world. This stone has a combination of energies of Saturn and Mars.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Neelam?",
+        "Answer": "Blue sapphire is the best stone to wear when going through Shani’s sade saati. It is known to help the most during that time. The owner of signs Capricorn, Libra, Virgo, Gemini, Taurus, and Aquarius can wear Neelam stone."
+      }
+    ],
+    "Benefits": [
+      "Instant success and growth.",
+      "Brings fame, power, and glory.",
+      "Stable mind and body.",
+      "Improved health."
+    ]
+  },
+  {
+    "ProductID": "3",
     "Name": "Pukhraj - Yellow Sapphire (5.59 ratti, 6.149 carat)",
     "Category": "gemstone",
     "Mrp": "15498",
     "SP": "12298",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/2_cc5cf108-0abd-4d6b-a2d2-87500d6b9930.jpg?v=1722512699&width=800",
       "https://gemsmantra.com/cdn/shop/files/1_5a2bd543-6ef0-42f1-b58a-881194e26ac4.jpg?v=1722512700&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_14ff5819-a67c-47c0-916b-30877e9e5081.jpg?v=1722512699&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "10",
+    "ProductID": "4",
     "Name": "Pukhraj - Yellow Sapphire (4.48 ratti, 4.928 carat)",
     "Category": "gemstone",
     "Mrp": "11999",
     "SP": "9899",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/1_60eda5c4-e02c-4e5b-bea4-62515529d3a2.jpg?v=1722512833&width=800",
       "https://gemsmantra.com/cdn/shop/files/2_c2b8c281-6615-4618-b902-157a7f945c97.jpg?v=1722512834&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_20fb053b-eb80-4e9f-8d03-a4b9506657f2.jpg?v=1722512834&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "11",
+    "ProductID": "5",
     "Name": "Pukhraj - Yellow Sapphire (5.11 ratti, 5.621 carat)",
     "Category": "gemstone",
     "Mrp": "14299",
     "SP": "11242",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/1_54f245d3-1e30-4468-9f15-14a37d56b8eb.jpg?v=1722512536&width=800",
       "https://gemsmantra.com/cdn/shop/files/2_296081d4-de18-492e-9fb6-38638b72915c.jpg?v=1722512536&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_f41b2b6e-806a-4e5b-9a64-21627d7cb53e.jpg?v=1722512536&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "12",
+    "ProductID": "6",
     "Name": "Pukhraj - Yellow Sapphire (4.95 ratti, 5.445 carat)",
     "Category": "gemstone",
     "Mrp": "12999",
     "SP": "11980",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/1_26fb6a65-b014-458c-9bae-254c7cd9297e.jpg?v=1722511726&width=800",
       "https://gemsmantra.com/cdn/shop/files/2_1d1fbf23-6927-4d12-8ce5-648f560c3e84.jpg?v=1722511726&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_25fce7e8-675a-4711-833e-c93e69ce5fe5.jpg?v=1722511726&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "13",
+    "ProductID": "7",
     "Name": "Pukhraj - Yellow Sapphire (5.14 ratti, 5.654 carat)",
     "Category": "gemstone",
     "Mrp": "13658",
     "SP": "11908",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/1_7dbe9577-8ce0-442d-a97a-980e92652404.jpg?v=1722511428&width=800",
       "https://gemsmantra.com/cdn/shop/files/2_685c4767-414e-4850-981b-690da5a3cf49.jpg?v=1722511428&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_c6a95a7f-d8c7-4901-8ec6-706a30d6cc9f.jpg?v=1722511428&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "14",
+    "ProductID": "8",
     "Name": "Pukhraj - Yellow Sapphire (5.6 ratti, 6.16 carat)",
     "Category": "gemstone",
     "Mrp": "15600",
     "SP": "12300",
-    "Color": "Yellow",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/1_fd0b240a-f3c0-45a4-832e-9eef6fcc107b.jpg?v=1722510469&width=800",
       "https://gemsmantra.com/cdn/shop/files/2_a5156c35-2921-4811-9a02-96025b2d6aa3.jpg?v=1722510470&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_2b714886-6aa2-4d50-8d75-3862cc372b48.jpg?v=1722510470&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Yellow",
+    "Type": "Pukhraj",
+    "About": "Pukhraj or Yellow sapphire is associated with knowledge and wealth. Yellow sapphire is thought to carry the power of Jupiter and is one of the most prosperous stones in the field of astrology. Yellow sapphire helps you make smart decisions and that too in a quick manner. The wearer of yellow sapphire becomes more disciplined and highly focused. Apart from that, the women wearer of this stone enjoys a good and happy marriage with good conjugal relations.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Pukhraj?",
+        "Answer": "Yellow Sapphire or Pukhraj is best suited to Sagittarius and Pisces sun signs or Dhanu or Meen Rashi."
+      }
+    ],
+    "Benefits": [
+      "Reduces mental pressure",
+      "It brings wealth and prosperity",
+      "Stability."
+    ]
   },
   {
-    "ProductID": "15",
+    "ProductID": "9",
     "Name": "Blue sapphire ( 5 Ratti )",
     "Category": "gemstone",
     "Mrp": "15600",
     "SP": "12300",
-    "Color": "Blue",
     "Images": [
-      "https://gemsmantra.com/cdn/shop/files/1_fd0b240a-f3c0-45a4-832e-9eef6fcc107b.jpg?v=1722510469&width=800",
-      "https://gemsmantra.com/cdn/shop/files/2_a5156c35-2921-4811-9a02-96025b2d6aa3.jpg?v=1722510470&width=800",
-      "https://gemsmantra.com/cdn/shop/files/3_2b714886-6aa2-4d50-8d75-3862cc372b48.jpg?v=1722510470&width=800"
+      "https://gemsmantra.com/cdn/shop/files/Gemsbracelet_1b631e04-e932-46b6-82d6-2272bd0cbeee.png?v=1686914406&width=800",
+      "https://gemsmantra.com/cdn/shop/products/3.png?v=1686914405&width=800"
     ],
-    "Type": "Opal"
+    "Color": "Blue",
+    "Type": "Neelam",
+    "About": "This blue sapphire, more popularly known as Neelam Ratnam is one of the most powerful stones in the astrological world. This stone has a combination of energies of Saturn and Mars.",
+    "FAQ": [
+      {
+        "Question": "Who should wear Neelam?",
+        "Answer": "Blue sapphire is the best stone to wear when going through Shani’s sade saati. It is known to help the most during that time. The owner of signs Capricorn, Libra, Virgo, Gemini, Taurus, and Aquarius can wear Neelam stone."
+      }
+    ],
+    "Benefits": [
+      "Instant success and growth.",
+      "Brings fame, power, and glory.",
+      "Stable mind and body.",
+      "Improved health."
+    ]
   },
 
   // Rudraksha
@@ -146,9 +240,6 @@
     "ProductID": "1",
     "Name": "5 Mukhi Rudraksha Mala",
     "Category": "rudraksha",
-    "Purpose": "Promotes overall health, well-being, and spiritual growth.",
-    "Guarantee": "100% original, Lab Certified, Authentic and Natural ",
-    "DivineCollection": "Lord Kalagni Rudra",
     "Mrp": "7000",
     "SP": "5500",
     "Images": [
@@ -165,18 +256,22 @@
     "Rating": "4.8"
   },
   {
-    "ProductID": "4",
+    "ProductID": "2",
     "Name": "Prem Vriddhi Mala/Bracelet - 6 Mukhi, 7 Mukhi and Gauri Shankar Rudraksha ( AB )",
     "Category": "rudraksha",
     "Mrp": "9000",
     "SP": "7100",
-    "Color": "",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/premvriddhi4.jpg?v=1712408987&width=800",
       "https://gemsmantra.com/cdn/shop/files/premvriddhi1.jpg?v=1712408987&width=800",
       "https://gemsmantra.com/cdn/shop/files/premvriddhi3.jpg?v=1712408987&width=800"
     ],
-    "Type": "Opal"
+    "About": [
+      "Prem Vriddhi Mala solves all problems related to love, marriage, and relationships. It's ideal for those who are facing difficulty in getting married or are married but need more balance and harmony in the relationship.",
+      "This mala consists of one 6 Mukhi/Faced, 7 Mukhi Rudraksha beads, and one Gaurishankar Rudraksha, Blessed with the love of Lord Shiva and Mata Parvati, this mala promises to mend every broken bond and strengthen the relationship.",
+      "Gemsmantra'sPrem Vriddhi Mala is Aura Synchronized and is strung in red thread."
+    ],
+    "Rating": "4.7"
   },
 
   // Bracelets
@@ -198,18 +293,22 @@
     ]
   },
   {
-    "ProductID": "6",
+    "ProductID": "2",
     "Name": "Green Aventurine Bracelet",
     "Category": "bracelet",
     "Mrp": "1399",
     "SP": "999",
-    "Color": "",
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/7_1c03e57a-e7e2-4631-94b1-cfb971d079f0.jpg?v=1715858831&width=800",
       "https://gemsmantra.com/cdn/shop/files/4_49976144-d677-4d30-a894-ce26abedb43a.jpg?v=1716040619&width=800",
       "https://gemsmantra.com/cdn/shop/files/1_a00fef53-1fb2-4dc2-a66e-92bd4a5be00e.jpg?v=1715858831&width=800"
     ],
-    "Type": "Opal"
+    "Description": "Aventurine Stretchable Bracelet. Best Quality Crystal Beads.  Ready to wear, already Aura-synchronized and activated for Best Results.",
+    "Benefits": [
+      "Aventurine is a stone of opportunity; known for amplifying luck, prosperity and abundance.",
+      "Aventurinecan promote physical and emotional well-being by promoting calmness, balance, and positive outlook. Aventurine is said to have a calming effect on the heart and emotions, and to help with decision-making by fostering a sense of clarity and inner peace. Additionally, aventurine is believed to stimulate creativity and prosperity. ",
+      "Get the best AAA quantity crystal bracelets with Gemsmantra."
+    ]
   },
 
   // Trees
@@ -237,11 +336,17 @@
     "Category": "trees",
     "Mrp": "799",
     "SP": "539",
-    "Color": "Black",
     "Images": [
-      "https://gemsmantra.com/cdn/shop/files/1_0b3300e5-af8b-4c4d-8e17-4be64e4c6f86.jpg?v=1715947332&width=800",
+      "https://gemsmantra.com/cdn/shop/files/Black_Agate_Crystal_Tree_Gold.jpg?v=1715947462&width=800",
       "https://gemsmantra.com/cdn/shop/files/1_f393074f-3289-4fb3-9457-be07dedf1cd1.jpg?v=1715947357&width=800"
-    ]
+    ],
+    "About": "Explore the beauty and grounded energy of our Black Agate Crystal Tree. Each tree is meticulously handcrafted, showcasing genuine Black Agate crystals renowned for their ability to provide stability and balance.",
+    "Benefits": [
+      "Stability and Resilience: Black Agate is believed to instill a sense of stability, strength, and emotional resilience, creating a balanced atmosphere.",
+      "Grounding Influence: Create an environment that fosters a deeper connection with the earth's energies, promoting a sense of calm and security.",
+      "Artistic Splendor: This crystal tree not only brings positive energy but also adds an element of grounded elegance to your surroundings."
+    ],
+    "Description": "Whether you're a believer in crystal energy or simply appreciate the beauty of Black Agate, the Black Agate Crystal Tree offers a unique blend of aesthetic charm and the reassuring aura of grounded energy. Enhance your surroundings with balance, stability, and the deep, earthy hues of Black Agate."
   },
   // Rakhi
   {
@@ -262,6 +367,46 @@
       "Enhances Clarity:It also improves your mental focus & decision-making.",
       "Promotes Calmness:5-Mukhi is known to Reduce stress & anxiety.",
       "Supports Health: It boosts your overall physical & spiritual well-being."
+    ]
+  },
+  {
+    "ProductID": "2",
+    "Name": "7 Chakra Stone Rakhi",
+    "Category": "rakhi",
+    "Mrp": "499",
+    "SP": "899",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/3_1eda49b9-4369-4a29-95e0-47e46af8c56f.jpg?v=1722338472&width=800",
+      "https://gemsmantra.com/cdn/shop/files/4_36f5e958-9e08-4768-811c-7d48e3498abe.jpg?v=1722338472&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_7029eed6-1f8e-402b-8490-0bb874c08e8a.jpg?v=1722338472&width=800",
+      "https://gemsmantra.com/cdn/shop/files/2_73c0d93e-db99-4c25-a98d-76a840a26bed.jpg?v=1722338473&width=800"
+    ],
+    "About": "This Rakshabandhan, ensure love, protection, and well-being for your brother with GemsMantra's 7 Chakra Stone Rakhi. Handcrafted with Love & Care, this Rakhi is Aura-synchronized, Activated, comes with Roli & Akshat, and is Ready to wear.",
+    "Benefits": [
+      "Balance and Harmony:Promotes balanced energy levels.",
+      "Holistic Healing:Supports physical, mental, and spiritual health.",
+      "Positive Energy:Enhances vitality and well-being.",
+      "Focus and Clarity: Improves concentration and mental clarity."
+    ]
+  },
+  {
+    "ProductID": "3",
+    "Name": "Clear Quartz with Long Bead Rakhi",
+    "Category": "rakhi",
+    "Mrp": "399",
+    "SP": "499",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/3_ca9d17a4-4a0c-4f3c-8f24-3744100550f4.jpg?v=1722337331&width=800",
+      "https://gemsmantra.com/cdn/shop/files/4_9a42a234-32ec-4693-9818-295ddac67722.jpg?v=1722337331&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_7b2f2310-83db-4fe9-8473-1ab61b868def.jpg?v=1722337332&width=800",
+      "https://gemsmantra.com/cdn/shop/files/2_925fa818-18c6-4b0f-bca0-cead8449a595.jpg?v=1722337331&width=800"
+    ],
+    "About": "This Rakshabandhan, ensure clarity, focus, and positive vibes for your brother with GemsMantra's Clear Quartz with Long Bead Rakhi. Handcrafted with Love & Care, this Rakhi is Aura-synchronized, Activated, comes with Roli & Akshat, and is Ready to wear.",
+    "Benefits": [
+      "Brings Good Luck:Attracts prosperity and positive opportunities.",
+      "Soothes Emotions:Eases stress and helps with emotional healing.",
+      "Enhances Focus:Sharpens mental clarity for better decisions.",
+      "Promotes Health: Supports overall wellness & vitality."
     ]
   }
 ]

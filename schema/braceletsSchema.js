@@ -1,4 +1,3 @@
-// const { types } = require("mime-types");
 const mongoose = require("mongoose");
 
 const braceletsSchema = new mongoose.Schema({

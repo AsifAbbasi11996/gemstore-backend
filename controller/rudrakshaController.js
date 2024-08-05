@@ -49,9 +49,6 @@ const addRudraksha = async (req, res) => {
     ProductID,
     Name,
     Category,
-    Purpose,
-    Guarantee,
-    DivineCollection,
     Mrp,
     SP,
     Images,
@@ -60,7 +57,7 @@ const addRudraksha = async (req, res) => {
   } = req.body;
 
   // Validate required fields
-  if (!ProductID || !Name || !Category || !Purpose || !Guarantee || !DivineCollection || !Mrp || !SP || !Images || !About || !Rating) {
+  if (!ProductID || !Name || !Category || !Mrp || !SP || !Images || !About || !Rating) {
     return res.status(400).json({ message: "Missing required fields" });
   }
 
@@ -69,9 +66,6 @@ const addRudraksha = async (req, res) => {
     ProductID,
     Name,
     Category,
-    Purpose,
-    Guarantee,
-    DivineCollection,
     Mrp,
     SP,
     Images,
