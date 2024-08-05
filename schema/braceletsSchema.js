@@ -1,6 +1,7 @@
+// const { types } = require("mime-types");
 const mongoose = require("mongoose");
 
-const productSchema = new mongoose.Schema({
+const braceletsSchema = new mongoose.Schema({
   ProductID: {
     type: String,
     required: true,
@@ -25,16 +26,14 @@ const productSchema = new mongoose.Schema({
     type: [String],
     required: true,
   },
-  Color: {
+  Description: {
     type: String,
+    required: true,
   },
-  Type: {
-    type: String,
-  },
-  Rating: {
-    type: Number,
-    default: 4.8,
+  Benefits: {
+    type: [String],
+    required: true,
   },
 });
 
-module.exports = mongoose.model("Product", productSchema);
+module.exports = mongoose.model("Bracelets", braceletsSchema);

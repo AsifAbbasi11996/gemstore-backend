@@ -6,7 +6,11 @@ require("./productDB")
 
 const PORT = 8000;
 
-const Routes = require("./routes/routes");
+const gemstoneRoutes = require("./routes/gemstoneRoutes.js");
+const rudrakshaRoutes = require("./routes/rudrakshaRoutes.js");
+const braceletsRoutes = require("./routes/braceletsRoutes.js");
+const treesRoutes = require("./routes/treesRoutes.js");
+const rakhiRoutes = require("./routes/rakhiRoutes.js");
 
 app.get("/", (req, res) => {
   res.send("Hi, I am live");
@@ -14,7 +18,11 @@ app.get("/", (req, res) => {
 
 // middleware or set router
 app.use(express.json());
-app.use("/api/products", Routes);
+app.use("/api/gemstone", gemstoneRoutes);
+app.use("/api/rudraksha", rudrakshaRoutes);
+app.use("/api/bracelets", braceletsRoutes);
+app.use("/api/trees", treesRoutes);
+app.use("/api/rakhi", rakhiRoutes);
 
 const start = async () => {
   try {

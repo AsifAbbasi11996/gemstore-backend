@@ -1,4 +1,5 @@
 [
+  // Gemstone
   {
     "ProductID": "1",
     "Name": "Blue Sapphire (3.82 ratti, 4.202 carat)",
@@ -11,101 +12,35 @@
       "https://gemsmantra.com/cdn/shop/files/2_30f5c901-5c37-400f-99c9-cf3eecd0e4db.jpg?v=1722335793&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_a8d4b511-1562-481c-955d-8b9e071719e5.jpg?v=1722335793&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "2",
     "Name": "Opal Premium (8 Ratti)",
     "Category": "gemstone",
-    "Mrp": "43500",
-    "SP": "40000",
-    "Color": "Grey",
+    "Mrp": 43500,
+    "SP": 40000,
     "Images": [
       "https://gemsmantra.com/cdn/shop/files/Gemsbracelet_e3d1f561-882e-444d-a0ea-c8fb9f3cf28b.png?v=1686745214&width=800"
     ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "3",
-    "Name": "5 Mukhi Rudraksha Mala",
-    "Category": "rudraksha",
-    "Mrp": "7000",
-    "SP": "5500",
-    "Color": "",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/RUDRAKSHA35.jpg?v=1712398463&width=800",
-      "https://gemsmantra.com/cdn/shop/files/rudhrakshmala22-3-2411.jpg?v=1712398463&width=800",
-      "https://gemsmantra.com/cdn/shop/files/RUDRAKSHA36.jpg?v=1712398463&width=800"
+    "Color": "Grey",
+    "Type": "Opal",
+    "About": "Opal is one of the most astonishing stones with astrological significance. These stones can turn yellow when the wearer is ill. This stone wonders that it shows that either the wearer is ill or that there is going to be an accident. The opal represents balance and calmness. The wearer of opal becomes a more loving and caring person. Also, the opal creates proper coordination between the left and right hemispheres of the brain leading to better neurological activity.",
+    "FAQ": [
+      {
+        "Question": "Who can wear Opal?",
+        "Answer": "Opal is associated with the planet Venus. This stone can be worn by people with weak venus in their native birth chart. People with Libra, Taurus, Capricorn, Aquarius, Gemini, and Virgo can also wear opal gemstones. The ones seeking to get rid of their physical disabilities, health issues, and other body issues should wear opal gemstone as well.",
+        "_id": "66b07ea3f3eff198bdb0eaff"
+      }
     ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "4",
-    "Name": "Prem Vriddhi Mala/Bracelet - 6 Mukhi, 7 Mukhi and Gauri Shankar Rudraksha ( AB )",
-    "Category": "rudraksha",
-    "Mrp": "9000",
-    "SP": "7100",
-    "Color": "",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/premvriddhi4.jpg?v=1712408987&width=800",
-      "https://gemsmantra.com/cdn/shop/files/premvriddhi1.jpg?v=1712408987&width=800",
-      "https://gemsmantra.com/cdn/shop/files/premvriddhi3.jpg?v=1712408987&width=800"
+    "Benefits": [
+      "Increased neurological and brain activity.",
+      "Better ability to control anger.",
+      "Highly beneficial for health matters.",
+      "Ability to predict accident or illness."
     ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "5",
-    "Name": "Amethyst Bracelet",
-    "Category": "bracelet",
-    "Mrp": "1199",
-    "SP": "899",
-    "Color": "",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/7.jpg?v=1715853452&width=800",
-      "https://gemsmantra.com/cdn/shop/files/4_ec977f54-b1bd-4fee-9a76-96e751dd94d8.jpg?v=1715853452&width=800",
-      "https://gemsmantra.com/cdn/shop/files/1_5697b43d-0874-4ab1-a422-0c27ce60df7f.jpg?v=1715853452&width=800"
-    ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "6",
-    "Name": "Green Aventurine Bracelet",
-    "Category": "bracelet",
-    "Mrp": "1399",
-    "SP": "999",
-    "Color": "",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/7_1c03e57a-e7e2-4631-94b1-cfb971d079f0.jpg?v=1715858831&width=800",
-      "https://gemsmantra.com/cdn/shop/files/4_49976144-d677-4d30-a894-ce26abedb43a.jpg?v=1716040619&width=800",
-      "https://gemsmantra.com/cdn/shop/files/1_a00fef53-1fb2-4dc2-a66e-92bd4a5be00e.jpg?v=1715858831&width=800"
-    ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "7",
-    "Name": "Small Rainbow Moonstone Crystal Tree",
-    "Category": "trees",
-    "Mrp": "899",
-    "SP": "599",
-    "Color": "MixColor",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/Rainbow_Moonstone_Crystal_Tree_Gold.jpg?v=1715948175&width=800",
-      "https://gemsmantra.com/cdn/shop/files/1_61ff9b6d-3ca3-4775-be99-1b254d59ed59.jpg?v=1715948068&width=800"
-    ],
-    "Type" : "Opal"
-  },
-  {
-    "ProductID": "8",
-    "Name": "Small Black Agate Crystal Tree",
-    "Category": "trees",
-    "Mrp": "799",
-    "SP": "539",
-    "Color": "Black",
-    "Images": [
-      "https://gemsmantra.com/cdn/shop/files/1_0b3300e5-af8b-4c4d-8e17-4be64e4c6f86.jpg?v=1715947332&width=800",
-      "https://gemsmantra.com/cdn/shop/files/1_f393074f-3289-4fb3-9457-be07dedf1cd1.jpg?v=1715947357&width=800"
-    ],
-    "Type" : "Opal"
+    "_id": "66b07ea3f3eff198bdb0eafe",
+    "__v": 0
   },
   {
     "ProductID": "9",
@@ -119,7 +54,7 @@
       "https://gemsmantra.com/cdn/shop/files/1_5a2bd543-6ef0-42f1-b58a-881194e26ac4.jpg?v=1722512700&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_14ff5819-a67c-47c0-916b-30877e9e5081.jpg?v=1722512699&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "10",
@@ -133,7 +68,7 @@
       "https://gemsmantra.com/cdn/shop/files/2_c2b8c281-6615-4618-b902-157a7f945c97.jpg?v=1722512834&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_20fb053b-eb80-4e9f-8d03-a4b9506657f2.jpg?v=1722512834&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "11",
@@ -147,7 +82,7 @@
       "https://gemsmantra.com/cdn/shop/files/2_296081d4-de18-492e-9fb6-38638b72915c.jpg?v=1722512536&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_f41b2b6e-806a-4e5b-9a64-21627d7cb53e.jpg?v=1722512536&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "12",
@@ -161,7 +96,7 @@
       "https://gemsmantra.com/cdn/shop/files/2_1d1fbf23-6927-4d12-8ce5-648f560c3e84.jpg?v=1722511726&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_25fce7e8-675a-4711-833e-c93e69ce5fe5.jpg?v=1722511726&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "13",
@@ -175,7 +110,7 @@
       "https://gemsmantra.com/cdn/shop/files/2_685c4767-414e-4850-981b-690da5a3cf49.jpg?v=1722511428&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_c6a95a7f-d8c7-4901-8ec6-706a30d6cc9f.jpg?v=1722511428&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "14",
@@ -189,7 +124,7 @@
       "https://gemsmantra.com/cdn/shop/files/2_a5156c35-2921-4811-9a02-96025b2d6aa3.jpg?v=1722510470&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_2b714886-6aa2-4d50-8d75-3862cc372b48.jpg?v=1722510470&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
   },
   {
     "ProductID": "15",
@@ -203,6 +138,130 @@
       "https://gemsmantra.com/cdn/shop/files/2_a5156c35-2921-4811-9a02-96025b2d6aa3.jpg?v=1722510470&width=800",
       "https://gemsmantra.com/cdn/shop/files/3_2b714886-6aa2-4d50-8d75-3862cc372b48.jpg?v=1722510470&width=800"
     ],
-    "Type" : "Opal"
+    "Type": "Opal"
+  },
+
+  // Rudraksha
+  {
+    "ProductID": "1",
+    "Name": "5 Mukhi Rudraksha Mala",
+    "Category": "rudraksha",
+    "Purpose": "Promotes overall health, well-being, and spiritual growth.",
+    "Guarantee": "100% original, Lab Certified, Authentic and Natural ",
+    "DivineCollection": "Lord Kalagni Rudra",
+    "Mrp": "7000",
+    "SP": "5500",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/RUDRAKSHA35.jpg?v=1712398463&width=800",
+      "https://gemsmantra.com/cdn/shop/files/rudhrakshmala22-3-2411.jpg?v=1712398463&width=800",
+      "https://gemsmantra.com/cdn/shop/files/RUDRAKSHA36.jpg?v=1712398463&width=800"
+    ],
+    "About": [
+      "Pathri or Chikna are the two varieties used to make the 5 Mukhi / 5 faced mala.",
+      "In comparison to Rava Dana, the Chikna variety is much different. A Chikna bead has a smooth surface, is denser, lasts longer, is of superior quality, and is rare to find. Due to its unique properties, the mala is a highly sought-after Rudraksha variety for Japa.",
+      "In total, it has 108 beads and 1 Meru bead.  A 5 Mukhi Rudraksha mala is believed to improve health, well-being, and calm the mind. Malas control anxiety and depression, motivate and create a positive attitude in the wearer.",
+      "A Japa Mala has beads in the size of 6mm Rudraksha strung in thread in traditional style with tassels. Both wearing and chanting mantras with this mala are beneficial."
+    ],
+    "Rating": "4.8"
+  },
+  {
+    "ProductID": "4",
+    "Name": "Prem Vriddhi Mala/Bracelet - 6 Mukhi, 7 Mukhi and Gauri Shankar Rudraksha ( AB )",
+    "Category": "rudraksha",
+    "Mrp": "9000",
+    "SP": "7100",
+    "Color": "",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/premvriddhi4.jpg?v=1712408987&width=800",
+      "https://gemsmantra.com/cdn/shop/files/premvriddhi1.jpg?v=1712408987&width=800",
+      "https://gemsmantra.com/cdn/shop/files/premvriddhi3.jpg?v=1712408987&width=800"
+    ],
+    "Type": "Opal"
+  },
+
+  // Bracelets
+  {
+    "ProductID": "1",
+    "Name": "Amethyst Bracelet",
+    "Category": "bracelet",
+    "Mrp": "1199",
+    "SP": "899",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/7.jpg?v=1715853452&width=800",
+      "https://gemsmantra.com/cdn/shop/files/4_ec977f54-b1bd-4fee-9a76-96e751dd94d8.jpg?v=1715853452&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_5697b43d-0874-4ab1-a422-0c27ce60df7f.jpg?v=1715853452&width=800"
+    ],
+    "Description": "Amethyst Stretchable Bracelet. Best Quality Crystal Beads.  Ready to wear, already Aura-synchronized and activated for Best Results.",
+    "Benefits": [
+      "If you want a healing stone that benefits you physically, mentally, and spiritually, then amethyst is the stone for you. The amethyst stone balances the mind, body, and spirit, connecting them and setting your body up for holistic wellness. It soothes the body, reducing anxious nerves and restlessness. Amethyst is an excellent crystal to use when you feel jittery or wound up. It will ease your muscles and instantly help you feel more relaxed and peaceful.",
+      "Get the best AAA quantity crystal bracelets with Gemsmantra."
+    ]
+  },
+  {
+    "ProductID": "6",
+    "Name": "Green Aventurine Bracelet",
+    "Category": "bracelet",
+    "Mrp": "1399",
+    "SP": "999",
+    "Color": "",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/7_1c03e57a-e7e2-4631-94b1-cfb971d079f0.jpg?v=1715858831&width=800",
+      "https://gemsmantra.com/cdn/shop/files/4_49976144-d677-4d30-a894-ce26abedb43a.jpg?v=1716040619&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_a00fef53-1fb2-4dc2-a66e-92bd4a5be00e.jpg?v=1715858831&width=800"
+    ],
+    "Type": "Opal"
+  },
+
+  // Trees
+  {
+    "ProductID": "1",
+    "Name": "Small Rainbow Moonstone Crystal Tree",
+    "Category": "trees",
+    "Mrp": "899",
+    "SP": "599",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/Rainbow_Moonstone_Crystal_Tree_Gold.jpg?v=1715948175&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_61ff9b6d-3ca3-4775-be99-1b254d59ed59.jpg?v=1715948068&width=800"
+    ],
+    "About": "Introducing our Rainbow Moonstone Crystal Tree - a radiant fusion of natural beauty and the positive energy of Rainbow Moonstone. Each tree is meticulously handcrafted, featuring genuine Rainbow Moonstone crystals celebrated for their ability to illuminate your space with positive and serene vibes.",
+    "Benefits": [
+      "Energetic Illumination: Rainbow Moonstone is renowned for its ability to enhance inner strength and intuition while radiating soothing and positive energy.",
+      "Artisanal Excellence: Crafted with precision, the tree showcases the ethereal play of colors within Rainbow Moonstone, making it an enchanting work of art.",
+      "Décor Brilliance: Beyond its energy-balancing qualities, the Rainbow Moonstone Crystal Tree is an elegant addition to your home or office décor."
+    ],
+    "Description": "Whether you're a crystal enthusiast or simply appreciate the captivating beauty of Rainbow Moonstone, the Rainbow Moonstone Crystal Tree offers an enchanting combination of aesthetic charm and spiritual well-being. Illuminate your surroundings with inner strength, intuition, and the magical allure of Rainbow Moonstone."
+  },
+  {
+    "ProductID": "2",
+    "Name": "Small Black Agate Crystal Tree",
+    "Category": "trees",
+    "Mrp": "799",
+    "SP": "539",
+    "Color": "Black",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/1_0b3300e5-af8b-4c4d-8e17-4be64e4c6f86.jpg?v=1715947332&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_f393074f-3289-4fb3-9457-be07dedf1cd1.jpg?v=1715947357&width=800"
+    ]
+  },
+  // Rakhi
+  {
+    "ProductID": "1",
+    "Name": "Rudraksha Rakhi",
+    "Category": "rakhi",
+    "Mrp": "399",
+    "SP": "599",
+    "Images": [
+      "https://gemsmantra.com/cdn/shop/files/3_8e2576be-a197-4b7c-a592-db4ca61ce4d0.jpg?v=1722339094&width=800",
+      "https://gemsmantra.com/cdn/shop/files/4_1e99c72b-6cf8-4f4b-9f0a-92674ddc46d8.jpg?v=1722339095&width=800",
+      "https://gemsmantra.com/cdn/shop/files/1_a15fd437-ba8c-441f-85dc-568b6b108353.jpg?v=1722339094&width=800",
+      "https://gemsmantra.com/cdn/shop/files/2_bc1b7645-c3d6-4514-9940-317f4668f003.jpg?v=1722339094&width=800"
+    ],
+    "About": "This Rakshabandhan, ensure spiritual protection, clarity, and well-being for your brother with GemsMantra's Rudraksha Rakhi. Handcrafted with Love & Care, this Rakhi is Aura-synchronized, Activated, comes with Roli & Akshat, and is Ready to wear.",
+    "Benefits": [
+      "Spiritual Protection:5-Mukhi Rudraksha shields against negative energies.",
+      "Enhances Clarity:It also improves your mental focus & decision-making.",
+      "Promotes Calmness:5-Mukhi is known to Reduce stress & anxiety.",
+      "Supports Health: It boosts your overall physical & spiritual well-being."
+    ]
   }
 ]
