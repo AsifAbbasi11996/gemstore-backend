@@ -2,6 +2,8 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const connectDB = require("./database/db");
+const cors = require('cors');
+app.use(cors());
 require("./productDB")
 
 const PORT = 6000;
@@ -23,10 +25,6 @@ app.use("/api/rudraksha", rudrakshaRoutes);
 app.use("/api/bracelets", braceletsRoutes);
 app.use("/api/trees", treesRoutes);
 app.use("/api/rakhi", rakhiRoutes);
-
-// Example for Express.js
-const cors = require('cors');
-app.use(cors());
 
 
 const start = async () => {
