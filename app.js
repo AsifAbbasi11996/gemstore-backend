@@ -4,7 +4,7 @@ const app = express();
 const connectDB = require("./database/db");
 require("./productDB")
 
-const PORT = 3000;
+const PORT = 8000;
 
 const gemstoneRoutes = require("./routes/gemstoneRoutes.js");
 const rudrakshaRoutes = require("./routes/rudrakshaRoutes.js");
