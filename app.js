@@ -24,6 +24,11 @@ app.use("/api/bracelets", braceletsRoutes);
 app.use("/api/trees", treesRoutes);
 app.use("/api/rakhi", rakhiRoutes);
 
+// Example for Express.js
+const cors = require('cors');
+app.use(cors());
+
+
 const start = async () => {
   try {
     await connectDB(process.env.MONGODB_URL);
